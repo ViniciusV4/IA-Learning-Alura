@@ -1,0 +1,6 @@
+{
+    "python.terminal.useEnvFile": true,
+    "workbench.editorAssociations": {
+        "file:/c:/Users/vinic/OneDrive/Documentos/Desenvolvimento/IA-Learning-Alura/data/transacoes.csv": "default"
+    }
+}

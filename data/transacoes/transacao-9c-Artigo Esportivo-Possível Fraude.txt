@@ -1,0 +1,3 @@
+**Recomendação:** Notificar Cliente — solicitar confirmação da transação antes de considerá-la legítima ou adotar medidas adicionais.
+
+**Classificação:** Suspeita de uso não autorizado do cartão (fraude não confirmada). O valor elevado e a descrição genérica do produto justificam a verificação, mas não comprovam fraude. 
